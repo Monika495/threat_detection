@@ -1,0 +1,8 @@
+To run: PS C:\Users\Admin\Desktop\threat_detection> python run_project.py
+realtime_sniffer.py → captures real-time threats and saves to CSV.
+
+app.py → displays last 50 packets from CSV in dashboard.
+
+run run_project.py anytime to capture new threats → CSV updates.
+
+Dashboard automatically shows the most recent packets.
